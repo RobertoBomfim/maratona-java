@@ -7,3 +7,13 @@ Esrc/academy/devdojo/maratonajava/intrducao/Aula02TiposPrimitivos.java,9\6\966d
 Nsrc/academy/devdojo/maratonajava/intrducao/Aula03TiposPrimitivosExercicio.java,b\2\b2f80051127b378e3a7f5859a3d027797ece1cf3
 p
 @src/academy/devdojo/maratonajava/intrducao/Aula04Operadores.java,c\3\c340df7fa5a021ffa068a597ad8d91d5256dd877
+~
+Nsrc/academy/devdojo/maratonajava/intrducao/Aula05EstruturasCondicionais03.java,5\0\509a3adb2e98556f4c06b5e10d49a58a3bb5ce65
+~
+Nsrc/academy/devdojo/maratonajava/intrducao/Aula05EstruturasCondicionais04.java,6\f\6f8aecbd0f50ff0355b696c160cbe69f6fcfe5d3
+}
+Msrc/academy/devdojo/maratonajava/intrducao/Aula06EstruturasDeRepeticao02.java,b\2\b23ec53b39c9f6bc2e6fb15af946bd72b79498c0
+n
+>src/academy/devdojo/maratonajava/intrducao/Aula07Arrays01.java,3\b\3b9ed21c4e744564db5c5d6f6c6536d40bf495fd
+n
+>src/academy/devdojo/maratonajava/intrducao/Aula07Arrays02.java,b\6\b6b7f358c9b95790988bb25fa430935f540fc2b9
