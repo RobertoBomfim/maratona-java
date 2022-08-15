@@ -1,0 +1,7 @@
+
+X
+java:S1854"=Remove this useless assignment to local variable "arrayInt2".(¶Éâ”ùÿÿÿÿ
+I
+java:S1481".Remove this unused "arrayInt2" local variable.(¶Éâ”ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ëšžúýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¬ñé‡þÿÿÿÿ

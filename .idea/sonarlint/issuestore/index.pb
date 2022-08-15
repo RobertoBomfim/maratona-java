@@ -17,3 +17,11 @@ n
 >src/academy/devdojo/maratonajava/intrducao/Aula07Arrays01.java,3\b\3b9ed21c4e744564db5c5d6f6c6536d40bf495fd
 n
 >src/academy/devdojo/maratonajava/intrducao/Aula07Arrays02.java,b\6\b6b7f358c9b95790988bb25fa430935f540fc2b9
+n
+>src/academy/devdojo/maratonajava/intrducao/Aula07Arrays03.java,8\1\811943285d7b263d2afacb7c1b645db2eac569af
+
+Osrc/academy/devdojo/maratonajava/intrducao/Aula08ArraysMultidimensionais01.java,3\f\3f3e5ae50cbd7102148c1acc338d44cb896bd651
+
+Osrc/academy/devdojo/maratonajava/intrducao/Aula08ArraysMultidimensionais02.java,e\0\e0ab5304ceec514ac07124a7bcb2278e66f90313
+ˆ
+Xsrc/academy/devdojo/maratonajava/javacore/Aintroducaoclasses/teste/EstudanteTeste01.java,0\3\03b5c453f679971ef67762082777d802ae3f6d59
