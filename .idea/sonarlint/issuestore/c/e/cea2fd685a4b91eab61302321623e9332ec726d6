@@ -1,0 +1,20 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¨Ë£Êÿÿÿÿÿ
+\
+java:S1226'"AIntroduce a new variable instead of reusing the parameter "num1".(øÊîôúÿÿÿÿ
+\
+java:S1226("AIntroduce a new variable instead of reusing the parameter "num2".(’ÀçÓùÿÿÿÿ
+P
+java:S3518"":Make sure "num2" can't be zero before doing this division.(òô–
+{
+java:S41446"YUpdate this method so that its implementation is not identical to "somaArray" on line 46.(­®¯æÿÿÿÿÿ8Âá™¿ª0
+N	java:S106"9Replace this use of System.out or System.err by a logger.(»µÍ‘
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(¥ºÛ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÙÍÛƒ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(ÚÀæ¸úÿÿÿÿ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(òô–
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(ş‡ê×ıÿÿÿÿ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(şğ€ûøÿÿÿÿ
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(ˆ™“™
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(ÂÛõøÿÿÿÿ
+Z	java:S106<"9Replace this use of System.out or System.err by a logger.(ÂÛõøÿÿÿÿ8Æê•¿ª0
