@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.intrducao;
+package academy.devdojo.maratonajava.intrducao.estruturasdecontrole;
 
 public class Aula06EstruturasDeRepeticao02 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.intrducao;
+package academy.devdojo.maratonajava.intrducao.operadores;
 
 public class Aula04Operadores {
     public static void main(String[] args) {

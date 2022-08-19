@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.intrducao;
+package academy.devdojo.maratonajava.intrducao.variaveis;
 /*
 Prática
 

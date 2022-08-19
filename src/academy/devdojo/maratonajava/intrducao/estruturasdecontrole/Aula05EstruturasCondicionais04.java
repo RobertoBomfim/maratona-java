@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.intrducao;
+package academy.devdojo.maratonajava.intrducao.estruturasdecontrole;
 
 public class Aula05EstruturasCondicionais04 {
     /*Exercício para descobrir tributação em euro
