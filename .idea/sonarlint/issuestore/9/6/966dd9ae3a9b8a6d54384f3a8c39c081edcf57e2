@@ -1,29 +1,0 @@
-
-W
-java:S1854"ARemove this useless assignment to local variable "primeiraLetra".(şî¹ı
-Y
-java:S1854
-">Remove this useless assignment to local variable "idadeShort".(™´Ñşÿÿÿÿ
-X
-java:S1854	"=Remove this useless assignment to local variable "idadeByte".(Á„Äóüÿÿÿÿ
-N
-java:S1854"8Remove this useless assignment to local variable "peso".(æ×æª
-U
-java:S1854":Remove this useless assignment to local variable "altura".(Íê…úÿÿÿÿ
-F
-java:S1481"+Remove this unused "altura" local variable.(Íê…úÿÿÿÿ
-?
-java:S1481")Remove this unused "peso" local variable.(æ×æª
-I
-java:S1481	".Remove this unused "idadeByte" local variable.(Á„Äóüÿÿÿÿ
-J
-java:S1481
-"/Remove this unused "idadeShort" local variable.(™´Ñşÿÿÿÿ
-J
-java:S1481"/Remove this unused "verdadeiro" local variable.(ŠŸ¦‰øÿÿÿÿ
-E
-java:S1481"*Remove this unused "falso" local variable.(œÏ×Äùÿÿÿÿ
-H
-java:S1481"2Remove this unused "primeiraLetra" local variable.(şî¹ı
-N	java:S106"9Replace this use of System.out or System.err by a logger.(ÓÌû­
-N	java:S106"9Replace this use of System.out or System.err by a logger.(‚…ë»

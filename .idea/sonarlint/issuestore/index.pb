@@ -1,28 +1,4 @@
 
-p
-@src/academy/devdojo/maratonajava/intrducao/Aula01OlaDevDojo.java,c\9\c9cbc3924ddfa503b3c33e0ef934add51200cf4d
-u
-Esrc/academy/devdojo/maratonajava/intrducao/Aula02TiposPrimitivos.java,9\6\966dd9ae3a9b8a6d54384f3a8c39c081edcf57e2
-~
-Nsrc/academy/devdojo/maratonajava/intrducao/Aula03TiposPrimitivosExercicio.java,b\2\b2f80051127b378e3a7f5859a3d027797ece1cf3
-p
-@src/academy/devdojo/maratonajava/intrducao/Aula04Operadores.java,c\3\c340df7fa5a021ffa068a597ad8d91d5256dd877
-~
-Nsrc/academy/devdojo/maratonajava/intrducao/Aula05EstruturasCondicionais03.java,5\0\509a3adb2e98556f4c06b5e10d49a58a3bb5ce65
-~
-Nsrc/academy/devdojo/maratonajava/intrducao/Aula05EstruturasCondicionais04.java,6\f\6f8aecbd0f50ff0355b696c160cbe69f6fcfe5d3
-}
-Msrc/academy/devdojo/maratonajava/intrducao/Aula06EstruturasDeRepeticao02.java,b\2\b23ec53b39c9f6bc2e6fb15af946bd72b79498c0
-n
->src/academy/devdojo/maratonajava/intrducao/Aula07Arrays01.java,3\b\3b9ed21c4e744564db5c5d6f6c6536d40bf495fd
-n
->src/academy/devdojo/maratonajava/intrducao/Aula07Arrays02.java,b\6\b6b7f358c9b95790988bb25fa430935f540fc2b9
-n
->src/academy/devdojo/maratonajava/intrducao/Aula07Arrays03.java,8\1\811943285d7b263d2afacb7c1b645db2eac569af
-
-Osrc/academy/devdojo/maratonajava/intrducao/Aula08ArraysMultidimensionais01.java,3\f\3f3e5ae50cbd7102148c1acc338d44cb896bd651
-
-Osrc/academy/devdojo/maratonajava/intrducao/Aula08ArraysMultidimensionais02.java,e\0\e0ab5304ceec514ac07124a7bcb2278e66f90313
 à
 Xsrc/academy/devdojo/maratonajava/javacore/Aintroducaoclasses/teste/EstudanteTeste01.java,0\3\03b5c453f679971ef67762082777d802ae3f6d59
 à
@@ -75,5 +51,3 @@ z
 Jsrc/academy/devdojo/maratonajava/javacore/Dconstrutores/dominio/Anime.java,9\7\97267b9e0c6f63f3f63463878bfa754797d08a65
 Ü
 Vsrc/academy/devdojo/maratonajava/javacore/Eblocosinicializacao/teste/AnimeTeste01.java,5\e\5e37f24aed27e13ed1973ccf0d5514b3bedf2073
-Å
-Qsrc/academy/devdojo/maratonajava/javacore/Eblocosinicializacao/dominio/Anime.java,c\d\cd4b7222d7345feeffd32649a319b6e365a80ef2

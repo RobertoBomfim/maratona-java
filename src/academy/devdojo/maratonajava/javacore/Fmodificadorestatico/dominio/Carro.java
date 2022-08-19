@@ -3,6 +3,7 @@ package academy.devdojo.maratonajava.javacore.Fmodificadorestatico.dominio;
 public class Carro {
     private String nome;
     private double velocidadeMaxima;
+    //Modificador de acesso static no atributo da classe faz todos os objetos da classe ter o valor do atributo;
     private static double velocidadeLimite = 250;
 
     public Carro(String nome, double velocidadeMaxima) {
@@ -17,6 +18,7 @@ public class Carro {
         System.out.println("Velocidade Limite " + Carro.velocidadeLimite);
     }
 
+    //
     public static void setVelocidadeLimite(double velocidadeLimite){
         Carro.velocidadeLimite = velocidadeLimite;
     }
