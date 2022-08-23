@@ -1,11 +1,9 @@
 
 o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆöŸñ
-H
-java:S1172",Remove this unused method parameter "iruka".(ÝÙ¿<8¿Àò¸¬0
-N	java:S106"9Replace this use of System.out or System.err by a logger.(áñÁ·
-S	java:S106"9Replace this use of System.out or System.err by a logger.(‘‰Ïûÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(º¥éí
-S	java:S106"9Replace this use of System.out or System.err by a logger.(·ÂŠ¾øÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(ÌÆÂ¨
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ž‡¼…ýÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(éÒÍ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(áñÁ·
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‘‰Ïûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(º¥éí
+S	java:S106"9Replace this use of System.out or System.err by a logger.(·ÂŠ¾øÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ú¬‘Y
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ž‡¼…ýÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(éÒÍ8€º‚Ü¬0

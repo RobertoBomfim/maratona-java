@@ -1,17 +1,17 @@
 package academy.devdojo.maratonajava.javacore.Gassociacao.dominio;
 
 public class Local {
-    private String endereço;
+    private String endereco;
 
-    public Local(String endereço) {
-        this.endereço = endereço;
+    public Local(String endereco) {
+        this.endereco = endereco;
     }
 
-    public String getEndereço() {
-        return endereço;
+    public String getEndereco() {
+        return endereco;
     }
 
-    public void setEndereço(String endereço) {
-        this.endereço = endereço;
+    public void setEndereco(String endereço) {
+        this.endereco = endereço;
     }
 }
