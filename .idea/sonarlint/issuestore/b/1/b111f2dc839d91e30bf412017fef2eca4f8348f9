@@ -1,0 +1,10 @@
+
+t
+java:S1104"YMake TipoPagamento a static final constant or non-public and provide accessors if needed.(ÐÉ—²ýÿÿÿÿ
+N
+java:S1444"3Make this "public static TipoPagamento" field final(ÐÉ—²ýÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Õî›‹ýÿÿÿÿ
+s
+java:S3008"XRename this field "TipoPagamento" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÐÉ—²ýÿÿÿÿ
+y
+java:S1845"^Rename field "tipoPagamento" to prevent any misunderstanding/clash with field "TipoPagamento".(˜„ã×ùÿÿÿÿ

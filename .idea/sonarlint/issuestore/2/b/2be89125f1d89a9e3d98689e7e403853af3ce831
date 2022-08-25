@@ -3,3 +3,5 @@ t	java:S120"ZRename this package name to match the regular expression '^[a-z_
 N	java:S106"9Replace this use of System.out or System.err by a logger.(šýêº
 S	java:S106"9Replace this use of System.out or System.err by a logger.(¿¼òÉúÿÿÿÿ
 Z	java:S106"9Replace this use of System.out or System.err by a logger.(¿¼òÉúÿÿÿÿ8ŸºÙ‰­0
+ƒ
+java:S1128"fRemove this unused import 'academy.devdojo.maratonajava.javacore.Jmodificadorfinal.dominio.Comprador'.(±Áûß8Ú¡§¥­0
