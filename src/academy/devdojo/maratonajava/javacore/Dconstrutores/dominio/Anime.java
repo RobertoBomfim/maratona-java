@@ -9,7 +9,6 @@ public class Anime {
     private String estudio;
 
     public Anime(String nome, String tipo, int episodios, String genero){
-        this();
         this.nome = nome;
         this.tipo = tipo;
         this.episodios = episodios;
