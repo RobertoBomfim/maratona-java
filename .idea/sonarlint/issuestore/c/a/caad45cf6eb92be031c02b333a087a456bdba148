@@ -1,0 +1,8 @@
+
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ã”ÓO
+æ
+java:S1845"ÈRename method "retrieveMaxDatasize" to prevent any misunderstanding/clash with method "retrieveMaxDataSize" defined in interface "academy.devdojo.maratonajava.javacore.Minterfaces.dominio.DataLoader".(Éƒ±8Ç¿Ö®0
+S	java:S106"9Replace this use of System.out or System.err by a logger.(€“ßøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‰“”Ú
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÕùëÕşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ë³µÒÿÿÿÿÿ
