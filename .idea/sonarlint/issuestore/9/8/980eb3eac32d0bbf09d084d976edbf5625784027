@@ -1,0 +1,17 @@
+
+^
+java:S1192"HDefine a constant instead of duplicating this literal "Roberto" 3 times.(ôÎß±
+R
+java:S4973	"<Strings and Boxed types should be compared using "equals()".(²”ş·
+^
+java:S4973"<Strings and Boxed types should be compared using "equals()".(®çë‹ùÿÿÿÿ8É°ù¯0
+^
+java:S4973"<Strings and Boxed types should be compared using "equals()".(Ğ–ç¿ÿÿÿÿÿ8ä‘†ù¯0
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÀÃëùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¹ß€ïúÿÿÿÿ
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(²”ş·
+;
+java:S2129
+" Remove this "String" constructor(³İËúÿÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(®çë‹ùÿÿÿÿ8—ê€ù¯0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ğ–ç¿ÿÿÿÿÿ8ñ‘†ù¯0
