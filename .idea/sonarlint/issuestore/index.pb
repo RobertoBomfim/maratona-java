@@ -211,3 +211,5 @@ Fsrc/academy/devdojo/maratonajava/javacore/Hheranca/dominio/Pessoa.java,0\6\06d
 Lsrc/academy/devdojo/maratonajava/javacore/Hheranca/teste/HerancaTeste01.java,6\e\6e1f69da4e2d1efaeb911bcfb7056f4dc04439b0
 |
 Lsrc/academy/devdojo/maratonajava/javacore/Hheranca/teste/HerancaTeste02.java,8\d\8d21e401755111a65cdebd58543e08f24b173c7c
+?
+pasta/aluno.ser,d\9\d9a8102186bc8e8888c8fd37f56eb50a13c1a350
