@@ -221,3 +221,11 @@ Vsrc/academy/devdojo/maratonajava/javacore/Fmodificadorestatico/teste/CarroTeste
 Vsrc/academy/devdojo/maratonajava/javacore/Fmodificadorestatico/teste/AnimeTeste01.java,2\0\202bdf3b2133e9c76503c32fde280ffb24522c70
 Å
 Qsrc/academy/devdojo/maratonajava/javacore/Fmodificadorestatico/dominio/Anime.java,c\c\cc628e7724dcde40a367cbd68d54f76d278ba06c
+{
+Ksrc/academy/devdojo/maratonajava/javacore/Ycolecoes/dominio/Smartphone.java,f\8\f8e3172ef32df85b89baf58bb31d1611d1bc42c1
+y
+Isrc/academy/devdojo/maratonajava/javacore/Ycolecoes/teste/ListTest01.java,5\e\5e1c50f20c84aff9ea6eee0e056a5cdebee487ac
+Ñ
+Tsrc/academy/devdojo/maratonajava/javacore/Ycolecoes/teste/SmartphoneListTeste01.java,4\6\4622aaf58cf2eeff13ee9a72da8b5e36c0265a9c
+~
+Nsrc/academy/devdojo/maratonajava/javacore/Ycolecoes/teste/ListSortTeste01.java,5\e\5e47bc10f499ecfde6aab6685f36103f0853edfd
